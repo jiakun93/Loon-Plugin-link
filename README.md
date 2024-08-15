@@ -1,8 +1,6 @@
 # Loon-Plugin-link
 Loon Plugin资源仓库链接
-# Loon Gallery
 
-[![Build](https://github.com/Peng-YM/Loon-Gallery/actions/workflows/main.yml/badge.svg)](https://github.com/Peng-YM/Loon-Gallery/actions/workflows/main.yml)
 
 Loon 插件仓库，提供一键式安装 Loon 插件。
 
@@ -11,7 +9,7 @@ Loon 插件仓库，提供一键式安装 Loon 插件。
 </p>
 
 ## 配置
-Loon 用户安装[插件](https://raw.githubusercontent.com/Peng-YM/Loon-Gallery/master/loon-gallery.plugin)，访问以下网址即可: https://🎈.com
+Loon 用户安装仓库[插件](https://raw.githubusercontent.com/jiakun93/Loon-Plugin-link/master/loon-gallery.plugin)，点击访问插件显示网址链接，或访问以下网址即可: https://loon-plugin.vercel.app/， https://whatshub.top/loon
 
 ## 如何贡献？
 您可以通过以下几个步骤添加一个 GitHub 仓库作为 Loon Gallery 的来源：
