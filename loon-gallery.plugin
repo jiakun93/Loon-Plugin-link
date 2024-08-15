@@ -1,8 +1,8 @@
-#!name=Loon Gallery
+#!name=Loon Plugin store
 #!desc=Loon 插件仓库
-#!openUrl=https://🎈.com
-#!author=Peng-YM
-#!homepage=https://github.com/Peng-YM/Loon-Gallery
+#!openUrl=https://loon-plugin.vercel.app 与https://whatshub.top/loon
+#!author=jiakun93
+#!homepage=https://github.com/jiakun93/Loon-Plugin-link
 #!icon=https://avatars.githubusercontent.com/u/38467044?v=4
 
 [MITM]
